@@ -13,7 +13,7 @@ In folder `Voron-Trident` beside this README file, we make some small changes ba
 
 ## BOM
 
-Please check [here](https://github.com/FYSETC/FYSETC-Voron-2/blob/main/BOM.md).
+Please check [here](https://github.com/FYSETC/FYSETC-Voron-Trident/blob/main/BOM.md).
 
 ## Connectors
 
@@ -41,7 +41,7 @@ Spider board mount: search 'Spider' [here](https://github.com/VoronDesign/Voron-
 
 ## Wiring
 
-There is wiring from VORON community [here](https://github.com/shiftingtech/Voron-Documentation/blob/Spider/build/electrical/v2_spider_wiring.md). Also you can refer Spider wiring [here](https://github.com/FYSETC/FYSETC-SPIDER#3-hardware-guide).
+There is wiring from VORON community [here](https://github.com/FYSETC/FYSETC-Voron-Trident/blob/main/VORON%20TRIDENT%20SPIDER%20WIRING%20V22.png). Also you can refer Spider wiring [here](https://github.com/FYSETC/FYSETC-SPIDER#3-hardware-guide).
 
 ***Note: Check your fan voltage before you set the fan jumpers, the jumpers for fan in below diagram are all set to 24v.***
 
