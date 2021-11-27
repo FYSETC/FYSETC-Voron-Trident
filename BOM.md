@@ -16,7 +16,7 @@
 | 10    | Motion               | Linear Rail MGN12H 400mm for X Axis | 1 PC        |                                                              |
 | 11    | Motion               | Linear Rail MGN9H 400mm for X Axis | 2 PCS        |                                                              |
 | 12   | Motion               | Linear Rail MGN9H 300mm for X Axis | 3 PCS        |                                                              |
-| 13  | Motion | Integrated Lead Screw/Stepper Motors - 300mm, 4mm pitch，with POM anti-backlash nut | 3PCS        |                                                              |
+| 13  | Motion | Integrated Lead Screw/Stepper Motors - 300mm, 4mm pitch，with POM anti-backlash nut [42HC40-204A-300N84](https://github.com/FYSETC/FYSETC-MOTORS/blob/main/42HC40-204A-300N84/42HC40-204A-300N84.pdf) | 3PCS        |                                                              |
 | 14  | Extruder | BMG Extruder gears Kit | 1 SET ||
 | 15   | Vibration Management | Rubber Foot         | 4 PCS        |                                                              |
 | 16   | Electronics          | Micro Switch | 1 PC         |                                                              |
@@ -24,8 +24,8 @@
 | 18   | Electronics          | Omron TL-Q5MC2 - NPN, NC, 5mm Sense | 1 PC         |                                                              |
 | 19   | Electronics          | Omron G3NB-225B-1 SSR           | 1 PC       |                                                              |
 | 20   | Electronics          | SSR DIN Mount | 1 PC         |                                                              |
-| 21    | Electronics          | Stepper motor: 17HS19-2004S-C | 2 PCS        |                                                              |
-| 22   | Electronics          | Stepper motor: 42HS20401B-20-2.3M | 1 PC         |                                                              |
+| 21    | Electronics          | Stepper motor: [17HS19-2004S-C](https://github.com/FYSETC/FYSETC-MOTORS/blob/main/17HS19-2004S-C/17HS19-2004S-C.pdf) | 2 PCS        |                                                              |
+| 22   | Electronics          | Stepper motor: [42HS20401B-20-2.3M](https://github.com/FYSETC/FYSETC-MOTORS/blob/main/42HS20401B-20-2.3M/42HS20401B-20-2.3M.pdf) | 1 PC         |                                                              |
 | 23   | Electronics          | Mean Well LRS-200-24 PSU                    | 1 PC         |                                                              |
 | 24   | Electronics          | TBC-09 Terminal Cover (optional, for LRS-200-24) | 1 PC       |                                                              |
 | 25  | Electronics          | Meanwell RS-25-5 PSU | 1 PC       |                                                              |
