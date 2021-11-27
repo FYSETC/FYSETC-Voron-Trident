@@ -1,6 +1,6 @@
 # Firmware
 
-We use `Spider v2.2` motherboard ([github](https://github.com/FYSETC/FYSETC-SPIDER)) for our `Voron-0` kit. And we use `Klipper` firmware. You can get the pre-build firmware `klipper.bin` and `printer_300.cfg` and `printer_350.cfg` files beside this `README` file.  In the kit you should find an SD card with OctoPi OS flashed. After you build your Voron Trident machine, you can insert it to the Raspberry-Pi and power up the machine, the machine should work. Remember to connect Ethernet cable to Raspberry-Pi and connect Spider board to Raspberry-Pi with 2*5 cable set.  
+We use `Spider v2.2` motherboard ([github](https://github.com/FYSETC/FYSETC-SPIDER)) for our `Voron-2` kit. And we use `Klipper` firmware. You can get the pre-build firmware `klipper.bin` and `printer_300.cfg` and `printer_350.cfg` files beside this `README` file.  In the kit you should find an SD card with OctoPi OS flashed. After you build your Voron Trident machine, you can insert it to the Raspberry-Pi and power up the machine, the machine should work. Remember to connect Ethernet cable to Raspberry-Pi and connect Spider board to Raspberry-Pi with 2*5 cable set.  
 
 ## 1. OctoPi OS
 
