@@ -1,6 +1,6 @@
 # FYSETC-Voron-Trident
 
-![](Trident.JPG)
+![](Trident.jpg)
 
 ## 1. Project
 
