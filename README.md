@@ -2,7 +2,7 @@
 
 ![](Trident.JPG)
 
-## Project
+## 1. Project
 
 This is FYSETC's project database for VORON Trident kit, which is convenient for you to find information. Thanks for VORON Team's great work, they always design fantastic printers.
 
@@ -11,11 +11,11 @@ Official Github：https://github.com/VoronDesign/Voron-Trident
 
 In folder `Voron-Trident` beside this README file, we make some small changes base on the VORON official material. Like change the board to Spider and others. 
 
-## BOM
+## 2. BOM
 
 Please check [here](https://github.com/FYSETC/FYSETC-Voron-Trident/blob/main/BOM.md).
 
-## Connectors
+## 3. Connectors
 
 ### Wire connector
 
@@ -25,7 +25,7 @@ Please check [here](https://github.com/FYSETC/FYSETC-Voron-Trident/blob/main/BOM
 
 This is for fans wire connection, with this connector you can wire two or more fans to one side of the connector, and the other side  to Spider board. Then you can control the two or more fans with one control pin in Spider.
 
-## Printed parts:
+## 4. Printed parts
 
 You can find all printed parts in VORON [website](https://vorondesign.com/voron_trident), VORON [github](https://github.com/VoronDesign/Voron-Trident) .
 
@@ -39,14 +39,24 @@ Z Chain mount: Chain size is 1011 ,it is bridge can be opened, so we use our own
 
 Spider board mount: search 'Spider' [here](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/ElectronicsBay/Controller_Mounts/Spider_bracket_2pc.stl).
 
-## Wiring
+## 5. Wiring
 
-There is wiring from VORON community [here](https://github.com/FYSETC/FYSETC-Voron-Trident/blob/main/VORON%20TRIDENT%20SPIDER%20WIRING%20V22.png). Also you can refer Spider wiring [here](https://github.com/FYSETC/FYSETC-SPIDER#3-hardware-guide).
+This our Spider v2.2 wiring diagram for our Trident kit. Or you can refer Spider wiring [here](https://github.com/FYSETC/FYSETC-SPIDER#3-hardware-guide).
 
 ***Note: Check your fan voltage before you set the fan jumpers, the jumpers for fan in below diagram are all set to 24v.***
 
-![](VORON TRIDENT SPIDER WIRING V22.png)
+![](VORON_Trident_Spider_v22_Wiring.png)
 
-## Where to buy the kit
+## 6. Firmware & RPI OS
+
+You can check firmware `README.md` in `firmware` folder beside this `README.md` file [here](https://github.com/FYSETC/FYSETC-Voron-Trident/tree/main/firmware). Well we already falshed octopi system (in sdcard) and Spider board (Klipper firmware) for you before the kit leave the factory. Below is the pre-flashed OctoPi system account and password.
+
+### 6.1 OctoPi
+
+Account: FYSETC
+
+Password: 12345678
+
+## 7. Where to buy
 
 [Aliexpress](https://www.aliexpress.com/item/1005003561028866.html?spm=5261.ProductManageOnline.0.0.2fc44edf4wYMCI)
