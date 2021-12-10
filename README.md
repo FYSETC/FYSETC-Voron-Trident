@@ -47,15 +47,18 @@ This our Spider v2.2 wiring diagram for our Trident kit. Or you can refer Spider
 
 ![](VORON_Trident_Spider_v22_Wiring.png)
 
-## 6. Firmware & RPI OS
+## 6. Firmware&OS
 
-You can check firmware `README.md` in `firmware` folder beside this `README.md` file [here](https://github.com/FYSETC/FYSETC-Voron-Trident/tree/main/firmware). Well we already falshed octopi system (in sdcard) and Spider board (Klipper firmware) for you before the kit leave the factory. Below is the pre-flashed OctoPi system account and password.
+You can check firmware `README.md` in `Firmware&OS` folder beside this `README.md` file [here](https://github.com/FYSETC/FYSETC-Voron-Trident/tree/main/Firmware&OS). Well we already flashed Octopi system (on sdcard) and Spider board (Klipper firmware) for you before the kit leave the factory. Below is the pre-flashed OctoPi system account and password.
 
 ### 6.1 OctoPi
 
+```
 Account: FYSETC
-
 Password: 12345678
+```
+
+Also we provide you Octopi OS system image for you, please check the `README` in `Firmware&OS` folder.
 
 ## 7. Where to buy
 
