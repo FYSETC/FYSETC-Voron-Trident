@@ -53,12 +53,21 @@ You can check firmware `README.md` in `Firmware&OS` folder beside this `README.m
 
 ### 6.1 OctoPi
 
+Octoprint account and password
+
 ```
 Account: FYSETC
 Password: 12345678
 ```
 
 Also we provide you Octopi OS system image for you, please check the `README` in `Firmware&OS` folder.
+
+OS SSH login account and password
+
+```
+Account: pi
+Password: raspberry
+```
 
 ## 7. Where to buy
 

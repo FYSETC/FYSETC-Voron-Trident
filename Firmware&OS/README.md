@@ -24,9 +24,19 @@ We flashed an SD card with OctoPi OS, the account and password are below.
 
 ### 2.1 Account and password
 
-Account: FYSETC
+Octoprint account and password
 
+```
+Account: FYSETC
 Password: 12345678
+```
+
+OS SSH login account and password
+
+```
+Account: pi
+Password: raspberry
+```
 
 ### 2.2 Connect Raspberry-Pi UART
 
