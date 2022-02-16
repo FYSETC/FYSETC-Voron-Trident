@@ -41,11 +41,19 @@ Spider board mount: search 'Spider' [here](https://github.com/VoronDesign/Voron-
 
 ## 5. Wiring
 
+### 5.1 Wiring diagram
+
 This our Spider v2.2 wiring diagram for our Trident kit. Or you can refer Spider wiring [here](https://github.com/FYSETC/FYSETC-SPIDER#3-hardware-guide).
 
 ***Note: Check your fan voltage before you set the fan jumpers, the jumpers for fan in below diagram are all set to 24v.***
 
 ![](VORON_Trident_Spider_v22_Wiring.png)
+
+### 5.2 Wiring example
+
+Following is the our wiring example.
+
+![](Wiring_Example.jpg)
 
 ## 6. Firmware&OS
 
