@@ -51,9 +51,9 @@ This our Spider v2.2 wiring diagram for our Trident kit. Or you can refer Spider
 
 ### 5.2 Wiring example
 
-Following is the our wiring example.
+Following is the our wiring example. If it is not clear enough, you can find `Wiring_Example.svg` beside this `README` to have a detail look.
 
-![](Wiring_Example.jpg)
+![](Wiring_Example.png)
 
 ## 6. Firmware&OS
 
