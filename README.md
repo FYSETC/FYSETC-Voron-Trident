@@ -51,7 +51,7 @@ This our Spider v2.2 wiring diagram for our Trident kit. Or you can refer Spider
 
 ### 5.2 Wiring example
 
-Following is the our wiring example. If it is not clear enough, you can find `Wiring_Example.svg` beside this `README` to have a detail look.
+Following is the our wiring example. If it is not clear enough, you can find `Wiring_Example.svg` beside this `README` to have a detail look. Note that we connect Klicky to `Y+` port, so we connect A and B endstop to `X-` and `Y-`, so it is different from the upper wiring diagram `VORON_Trident_Spider_v22_Wiring`. 
 
 ![](Wiring_Example.png)
 
