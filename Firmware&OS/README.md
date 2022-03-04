@@ -46,9 +46,9 @@ We connect RPI and Spider on UART interface of this kit, so if you build your ow
 
 We also provide you this Octopi system image for you. The Spider board version in the kit is v2.2, and you can get the responding Octopi system here
 
-350mm kit ([1.Dropbox](https://www.dropbox.com/s/d9jh0y5ge8v29qp/Voron-Trident-octoprint-klipper-spider2.2-350mm.img?dl=0) 2.百度云盘 提取码：YYDS).
+350mm kit ([1.Dropbox](https://www.dropbox.com/s/za5dmh5j3lqtiyn/Voron-Trident-octoprint-klipper-spider2.2-350mm.img?dl=0) 2.百度云盘 提取码：YYDS).
 
-300mm kit ([1.Dropbox](https://www.dropbox.com/s/8b6c8tuxqco6s4a/Voron-Trident-octoprint-klipper-spider2.2-300mm.img?dl=0) 2.百度云盘 提取码：YYDS).
+300mm kit (1.[Dropbox](https://www.dropbox.com/s/0278tbmfbtlbx4l/Voron-Trident-octoprint-klipper-spider2.2-300mm.img?dl=0) 2.百度云盘 提取码：YYDS).
 
 Just flash it to your SD card, and all are ready there.
 
