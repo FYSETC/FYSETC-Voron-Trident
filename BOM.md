@@ -35,7 +35,7 @@
 | 29  | Electronics          | 40x40x10 Axial Fan (24V)                    | 1 PC        |                                                              |
 | 30 | Electronics          | 40x40x20 Centrifugal Fan (24V)              | 1 PC         |                                                              |
 | 31  | Electronics          | 60x60x20 Fan (24V)kit                       | 3PCS     |                                                              |
-| 32   | Electronics          | Thermal Fuse | 1 PC         | Extra one |
+| 32   | Electronics          | Thermal Fuse | 1 PC         | This is Extra one, AC Heater already have one integrated. |
 | 33   | Electronics          | Keystone CAT6 Insert (Optional) | 1 PC         |                                                              |
 | 34   | Controller           | Raspberry Pi 4 4GB                         | 1 PC         |                                                              |
 | 35    | Controller           | MicroSD Card                        | 1 PC         |                                                    |
