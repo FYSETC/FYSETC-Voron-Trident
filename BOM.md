@@ -61,7 +61,7 @@
 | 55   | Cable Chain      | 10x11mm with three holes  end | 2 PCS   |  |
 | 56  | Cables           | Cable Kit | 1 PC    | The Cables are all Teflon and pre-crimped |
 | 57   | Panels           | Deck, Bottom and Back Panels | 1SET    |                                                              |
-| 58  | Panels           | Side/Front/Top Panels | 1SET     |                                                              |
+| 58  | Panels           | Side/Front/Top  Acrylic  Panels | 1SET     |                                                              |
 | 59    | Buildplate           | MIC6 5/16" Plate - 14"x14"                  | 1 PC         |                                                              |
 | 60   | Buildplate           | Silicone AC Heater - 300x300mm (650W)       | 1 PC         | Thermal Fuse RH15A125 wired                                  |
 | 61   | Buildplate           | PEI powder steel plate 355*355mm | 1 PC         |                                                              |
